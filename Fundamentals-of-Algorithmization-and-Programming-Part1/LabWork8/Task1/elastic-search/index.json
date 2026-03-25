@@ -1,0 +1,22 @@
+{
+    "mappings": {
+        "properties": {
+            "name": {
+                "type": "text",
+                "analyzer": "russian"
+            },
+            "number_salary_hours": {
+                "type": "text"
+            },
+            "service_number": {
+                "type": "integer"
+            },
+            "salary": {
+                "type": "integer"
+            },
+            "hours_worked": {
+                "type": "integer"
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+.vs
+Debug
+StaticLib/Debug
+StaticLib/x64
+StaticLib/StaticLib.vcxproj.filters
+StaticLib/StaticLib.vcxproj
+StaticLib/StaticLib.vcxproj.user
+x64
+Task_1.sln
+Task_1/Debug
+Task_1/Task_1.vcxproj.filters
+Task_1/Task_1.vcxproj
+Task_1/Task_1.user
+Task_1/Task_1.vcxproj.user

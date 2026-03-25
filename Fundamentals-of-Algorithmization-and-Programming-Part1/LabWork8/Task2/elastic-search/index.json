@@ -1,0 +1,29 @@
+{
+    "mappings": {
+      "properties": {
+        "fullname": {
+          "type": "text",
+          "analyzer": "russian"
+        },
+        "city": {
+          "type": "text"
+        },
+        "street": {
+          "type": "text"
+        },
+        "house": {
+          "type": "integer"
+        },
+        "apartment": {
+          "type": "integer"
+        },
+        "house_aparment_average_grade": {
+          "type": "text"
+        },
+        "average_grade": {
+          "type": "float"
+        }
+      }
+    }
+  }
+  

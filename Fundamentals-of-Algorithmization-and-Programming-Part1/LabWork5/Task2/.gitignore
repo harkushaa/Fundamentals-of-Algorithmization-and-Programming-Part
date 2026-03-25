@@ -1,0 +1,14 @@
+.vs
+Debug
+DynamicLib/Debug
+DynamicLib/x64
+DynamicLib/DynamicLib.vcxproj.filters
+DynamicLib/DynamicLib.vcxproj
+DynamicLib/DynamicLib.vcxproj.user
+x64
+Task_2.sln
+Task_2/Debug
+Task_2/Task_2.vcxproj.filters
+Task_2/Task_2.vcxproj
+Task_2/Task_2.user
+Task_2/Task_2.vcxproj.user
